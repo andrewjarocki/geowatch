@@ -1,0 +1,11 @@
+{
+  "name": "hellonode",
+  "subdomain": "hellonode",
+  "scripts": {
+    "start": "node geowatch.js"
+  },
+  "version": "0.0.1",
+  "engines": {
+    "node": "v0.10.x"
+  }
+}
